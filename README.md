@@ -1,2 +1,2 @@
 # hello-world
-Training
+This is just Training
